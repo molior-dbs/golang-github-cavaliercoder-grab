@@ -5,7 +5,8 @@ Maintainer: Debian Go Packaging Team <team+pkg-go@tracker.debian.org>
 Uploaders: TODO <admin@lepton.exnihilo>
 Build-Depends: debhelper (>= 11),
                dh-golang,
-               golang-any
+               golang-any,
+               git-core
 Standards-Version: 4.2.1
 Homepage: https://github.com/cavaliercoder/grab
 Vcs-Browser: https://salsa.debian.org/go-team/packages/golang-github-cavaliercoder-grab
