@@ -1,0 +1,17 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: grab
+Source: https://github.com/cavaliercoder/grab
+Files-Excluded:
+  Godeps/_workspace
+
+Files: *
+Copyright: 2016 The Cavalier Gopher
+License: BSD-3-clause
+
+Files: debian/*
+Copyright: 2021 TODO <admin@lepton.exnihilo>
+License: BSD-3-clause
+Comment: Debian packaging is licensed under the same terms as upstream
+
+License: BSD-3-clause
+TODO
