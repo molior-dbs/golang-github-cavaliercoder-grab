@@ -1,6 +1,5 @@
-golang-github-cavaliercoder-grab (2.0.0+git20210912.718223b-3) UNRELEASED; urgency=medium
+golang-github-cavaliercoder-grab (2.0.0+git20210912.718223b-4) UNRELEASED; urgency=medium
 
-  * bump version 2.0.0+git20210912.718223b-2
-  * bump version 2.0.0+git20210912.718223b-3
+  * initial build
 
- -- André Roth <admin@lepton.exnihilo>  Tue, 23 Nov 2021 12:46:50 +0000
+ -- André Roth <admin@lepton.exnihilo>  Tue, 23 Nov 2021 13:12:08 +0000
