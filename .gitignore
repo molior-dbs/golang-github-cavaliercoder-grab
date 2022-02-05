@@ -5,3 +5,11 @@
 .pc
 
 _build
+
+debian/.debhelper/
+debian/debhelper-build-stamp
+debian/files
+debian/golang-github-cavaliergopher-grab-dev.substvars
+debian/golang-github-cavaliergopher-grab-dev/
+
+
